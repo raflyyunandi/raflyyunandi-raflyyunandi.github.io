@@ -1,2 +1,7 @@
-# raflyyunandi.github.io
-Web Portfolio untuk tugas MK Internet Marketing - Google Analytic
+
+# Selamat Datang Di Webiste Portfolio saya
+Langsung saja!
+
+Untuk melihat website saya buka link -> Website Portfolio Rafly http://raflyyunandi.github.io
+
+# Terima kasih
