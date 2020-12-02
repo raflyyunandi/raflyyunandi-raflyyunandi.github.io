@@ -2,7 +2,7 @@
 
 Langsung saja!
 
-Untuk melihat website saya buka link -> [Website Portfolio Rafly](https://http://raflyyunandi.github.io/).
+Untuk melihat website saya buka link -> [Website Portfolio Rafly](https://raflyyunandi.github.io/).
 
 
 ### Terima kasih
